@@ -1,0 +1,7 @@
+{
+  "name": "MANTRA",
+  "description": "An emotional diary app with AI-powered insights tracking daily moods and patterns.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
